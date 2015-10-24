@@ -1,0 +1,3 @@
+# Bleeding edge Django
+
+# Additional requirements go here

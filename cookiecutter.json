@@ -1,0 +1,10 @@
+{
+    "project_name": "project_name",
+    "repo_name": "{{ cookiecutter.project_name|replace(' ', '_')|lower }}",
+    "author_name": "Wael BEN ZID ELGUEBSI",
+    "email": "benzid.wael@hotmail.fr",
+    "description": "A short description of the project.",
+    "domain_name": "example.com",
+    "version": "0.0.0",
+    "timezone": "UTC"
+}
